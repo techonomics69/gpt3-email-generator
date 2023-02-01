@@ -2,8 +2,8 @@ import streamlit as st
 import openai
 from ml_backend import ml_backend
 
-st.title("Interactive Email Generator App")
-st.text("by Alex Zavalny")
+st.title("Lets get freaky with email")
+st.text("by ChristianAnderson")
 
 st.markdown(""" 
 
